@@ -1,4 +1,15 @@
 {
-    "project_id": "40e18c1e-6926-4ca5-bf10-82a8b8d89e27",
-    "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2"
+  "workbooks": [
+    {
+      "name": "Sales-Dashboard",
+      "file_path": "Sales-Dashboard.twbx",
+      "project_path": "Technology",
+      "option": {
+        "tags": ["sample", "temp"],
+        "hidden_views": ["Event by day"],
+        "show_tabs": true,
+        "description": "Sample description"
+      }
+    }
+  ]
 }
