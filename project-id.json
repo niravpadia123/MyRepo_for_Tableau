@@ -2,7 +2,7 @@
   "workbooks": [
     {
       "name": "Superstore_Sales_vs_Profit",
-      "file_path": "Superstore_Sales_vs_Profit.twbx",
+      "file_path": "Superstore_Sales_vs_Profit New.twb",
       "project_path": "Technology",
       "option": {
         "tags": ["sample", "temp"],
@@ -13,7 +13,7 @@
     },
     {
       "name": "InsideAirbnb",
-      "file_path": "InsideAirbnb.twbx",
+      "file_path": "InsideAirbnb New.twbx",
       "project_path": "Default",
       "option": {
         "tags": ["sample", "temp"],
