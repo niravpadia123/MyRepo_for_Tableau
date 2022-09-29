@@ -1,8 +1,8 @@
 {
   "workbooks": [
     {
-      "name": "Sales_Pipeline_Dashboard",
-      "file_path": "Sales_Pipeline_Dashboard.twbx",
+      "name": "InsideAirbnb1",
+      "file_path": "InsideAirbnb1.twbx",
       "project_path": "Technology",
       "option": {
         "tags": ["sample", "temp"],
