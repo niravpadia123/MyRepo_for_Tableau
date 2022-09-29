@@ -1,9 +1,9 @@
 {
   "workbooks": [
     {
-      "name": "Test",
-      "file_path": "InsideAirbnb.twbx",
-      "project_path": "Default",
+      "name": "TeInsideAirbnbNewst",
+      "file_path": "InsideAirbnbNew.twbx",
+      "project_path": "Technology",
       "option": {
         "tags": ["sample", "temp"],
         "hidden_views": ["Event by day"],
