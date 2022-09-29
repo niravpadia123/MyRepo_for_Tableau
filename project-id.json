@@ -1,9 +1,20 @@
 {
   "workbooks": [
     {
-      "name": "InsideAirbnb1",
-      "file_path": "InsideAirbnb1.twbx",
+      "name": "InsideAirbnb2",
+      "file_path": "InsideAirbnb2.twbx",
       "project_path": "Technology",
+      "option": {
+        "tags": ["sample", "temp"],
+        "hidden_views": ["Event by day"],
+        "show_tabs": true,
+        "description": "Sample description"
+      }
+    },
+    {
+      "name": "Superstore_Sales_vs_Profit New",
+      "file_path": "Superstore_Sales_vs_Profit New.twb",
+      "project_path": "Default",
       "option": {
         "tags": ["sample", "temp"],
         "hidden_views": ["Event by day"],
