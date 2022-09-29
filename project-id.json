@@ -1,20 +1,9 @@
 {
   "workbooks": [
     {
-      "name": "Superstore_Sales_vs_Profit",
-      "file_path": "Superstore_Sales_vs_Profit.twb",
+      "name": "Sales_Pipeline_Dashboard",
+      "file_path": "Sales_Pipeline_Dashboard.twbx",
       "project_path": "Technology",
-      "option": {
-        "tags": ["sample", "temp"],
-        "hidden_views": ["Event by day"],
-        "show_tabs": true,
-        "description": "Sample description"
-      }
-    },
-    {
-      "name": "Census",
-      "file_path": "Census.twbx",
-      "project_path": "Default",
       "option": {
         "tags": ["sample", "temp"],
         "hidden_views": ["Event by day"],
