@@ -1,8 +1,8 @@
 {
   "workbooks": [
     {
-      "name": "film_workbook",
-      "file_path": "film_workbook.twb",
+      "name": "Superstore_Sales_vs_Profit New",
+      "file_path": "Superstore_Sales_vs_Profit New.twb",
       "project_path": "Technology",
       "option": {
         "tags": ["sample", "temp"],
