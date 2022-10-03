@@ -1,8 +1,8 @@
 {
   "workbooks": [
     {
-      "name": "Customer Details",
-      "file_path": "Customer Details.twb",
+      "name": "Superstore_Sales_&_Profit",
+      "file_path": "Superstore_Sales_&_Profit.twb",
       "project_path": "Technology",
       "option": {
         "tags": ["sample", "temp"],
