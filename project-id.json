@@ -1,20 +1,9 @@
 {
   "workbooks": [
     {
-      "name": "Superstore_New",
-      "file_path": "Superstore_New.twb",
+      "name": "Customer Details",
+      "file_path": "Customer Details.twb",
       "project_path": "Technology",
-      "option": {
-        "tags": ["sample", "temp"],
-        "hidden_views": ["Event by day"],
-        "show_tabs": true,
-        "description": "Sample description"
-      }
-    },
-    {
-      "name": "Superstore_Sales",
-      "file_path": "Superstore_Sales.twb",
-      "project_path": "Default",
       "option": {
         "tags": ["sample", "temp"],
         "hidden_views": ["Event by day"],
